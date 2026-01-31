@@ -53,6 +53,7 @@ class DocumentService:
             "document_id": document_id,
             "filename": document_path.name,
             "extracted_text_preview": trimmed_text,
+            "full_text":full_text,
             "total_extracted_chars": len(full_text),
             "trimmed_text_chars": len(trimmed_text)
         }
