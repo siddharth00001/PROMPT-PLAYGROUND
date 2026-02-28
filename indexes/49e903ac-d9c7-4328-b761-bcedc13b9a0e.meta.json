@@ -1,0 +1,37 @@
+{
+  "document_id": "49e903ac-d9c7-4328-b761-bcedc13b9a0e",
+  "filename": "49e903ac-d9c7-4328-b761-bcedc13b9a0e_Siddharth_Profile_RAG_Test.pdf",
+  "chunk_size": 800,
+  "overlap": 120,
+  "embedding_model": "text-embedding-3-small",
+  "num_chunks": 3,
+  "chunks": [
+    {
+      "chunk_id": "49e903ac-d9c7-4328-b761-bcedc13b9a0e_0",
+      "index": 0,
+      "start_char": 0,
+      "end_char": 800,
+      "num_full_text": 800,
+      "text": "Professional Profile – Siddharth Chamoli\nPersonal Overview\nSiddharth Chamoli is an AI and Machine Learning Engineer with over 6 years of professional\nexperience in data science, intelligent automation, and large-scale analytics systems. He has\nworked extensively with enterprise clients in banking, telecom, and technology domains.\nCurrent Role\nSiddharth currently works with IRIS Software on banking and financial services projects. His work\nfocuses on building production-grade AI systems, MLOps pipelines, and cloud-native ML services\nprimarily using AWS infrastructure.\nCore Technical Skills\n•\nPython, FastAPI, REST API design\n•\nMachine Learning and Deep Learning\n•\nNatural Language Processing (NLP)\n•\nRetrieval-Augmented Generation (RAG) systems\n•\nFAISS and vector databases\n•\nOpenAI and Hugging",
+      "preview": "Professional Profile – Siddharth Chamoli\nPersonal Overview\nSiddharth Chamoli is an AI and Machine Learning Engineer with over 6 years of professional\nexperience in data science, intelligent automation"
+    },
+    {
+      "chunk_id": "49e903ac-d9c7-4328-b761-bcedc13b9a0e_1",
+      "index": 1,
+      "start_char": 680,
+      "end_char": 1480,
+      "num_full_text": 800,
+      "text": "nguage Processing (NLP)\n•\nRetrieval-Augmented Generation (RAG) systems\n•\nFAISS and vector databases\n•\nOpenAI and Hugging Face models\n•\nDocker and Kubernetes for ML services\n•\nAWS (S3, EC2, ECR, EKS, CloudWatch)\n•\nGit, GitHub, CI/CD pipelines\nNotable Projects\n• Built an end-to-end RAG system with document ingestion, chunking, embeddings, FAISS\nindexing, and grounded LLM responses with source attribution.\n• Developed intelligent document processing (IDP) pipelines for banking and insurance clients.\n• Designed AI-driven analytics and competitor intelligence systems using large language models.\nCareer Goals\nSiddharth aims to become a Senior AI Engineer and AI SaaS builder capable of designing,\ndeploying, and monetizing production-ready AI products across web and mobile platforms. He is\nparticu",
+      "preview": "nguage Processing (NLP)\n•\nRetrieval-Augmented Generation (RAG) systems\n•\nFAISS and vector databases\n•\nOpenAI and Hugging Face models\n•\nDocker and Kubernetes for ML services\n•\nAWS (S3, EC2, ECR, EKS, C"
+    },
+    {
+      "chunk_id": "49e903ac-d9c7-4328-b761-bcedc13b9a0e_2",
+      "index": 2,
+      "start_char": 1360,
+      "end_char": 1685,
+      "num_full_text": 325,
+      "text": "able of designing,\ndeploying, and monetizing production-ready AI products across web and mobile platforms. He is\nparticularly focused on combining GenAI with strong MLOps practices.\nThis document is intended for testing document ingestion, chunking, indexing, and querying within\nRetrieval-Augmented Generation (RAG) systems.",
+      "preview": "able of designing,\ndeploying, and monetizing production-ready AI products across web and mobile platforms. He is\nparticularly focused on combining GenAI with strong MLOps practices.\nThis document is i"
+    }
+  ]
+}

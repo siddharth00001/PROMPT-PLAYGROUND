@@ -1,0 +1,19 @@
+{
+  "document_id": "0a5f2827-583f-4a87-92ea-f9413450a84b",
+  "filename": "0a5f2827-583f-4a87-92ea-f9413450a84b_Swati_BioData.pdf",
+  "chunk_size": 800,
+  "overlap": 120,
+  "embedding_model": "text-embedding-3-small",
+  "num_chunks": 1,
+  "chunks": [
+    {
+      "chunk_id": "0a5f2827-583f-4a87-92ea-f9413450a84b_0",
+      "index": 0,
+      "start_char": 0,
+      "end_char": 569,
+      "num_full_text": 569,
+      "text": "Bio-Data \nName - Swati Chamoli \nD.O.B -  25/5/1993 \nSchool - Kendriya Vidayala Noida \nQualification -  B.tech (Electronics) from Greater Noida institute of technology \nOccupation - Working as an Associate Analyst at Global Logic \nAnnual Income - 4.5 LPA \nHeight - 5-3’’ \nFather’s Name- Jagdish Prasad Chamoli \nFather’s Occupation - Working as an marketing manager in private sector \nMother’s Name - Sumati chamoli (House Wife) \nSiblings - One younger brother (Did B.Tech Now Working as an Senior Software Engineer \nat Coforge LTD ) \nPhone Number- 9250434400, 9811559760",
+      "preview": "Bio-Data \nName - Swati Chamoli \nD.O.B -  25/5/1993 \nSchool - Kendriya Vidayala Noida \nQualification -  B.tech (Electronics) from Greater Noida institute of technology \nOccupation - Working as an Assoc"
+    }
+  ]
+}
